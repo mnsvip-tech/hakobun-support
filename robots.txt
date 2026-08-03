@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mnsvip-tech.github.io/hakobun-support/sitemap.xml

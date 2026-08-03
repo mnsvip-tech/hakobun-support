@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mnsvip-tech.github.io/hakobun-support/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mnsvip-tech.github.io/hakobun-support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mnsvip-tech.github.io/hakobun-support/en/index.html" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mnsvip-tech.github.io/hakobun-support/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mnsvip-tech.github.io/hakobun-support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mnsvip-tech.github.io/hakobun-support/en/index.html" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mnsvip-tech.github.io/hakobun-support/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mnsvip-tech.github.io/hakobun-support/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mnsvip-tech.github.io/hakobun-support/en/privacy.html" />
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://mnsvip-tech.github.io/hakobun-support/en/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mnsvip-tech.github.io/hakobun-support/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mnsvip-tech.github.io/hakobun-support/en/privacy.html" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://mnsvip-tech.github.io/hakobun-support/commercial.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mnsvip-tech.github.io/hakobun-support/commercial.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mnsvip-tech.github.io/hakobun-support/en/commercial.html" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://mnsvip-tech.github.io/hakobun-support/en/commercial.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mnsvip-tech.github.io/hakobun-support/commercial.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mnsvip-tech.github.io/hakobun-support/en/commercial.html" />
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+</urlset>
